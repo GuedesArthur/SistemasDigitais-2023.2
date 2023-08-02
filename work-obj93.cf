@@ -1,0 +1,7 @@
+v 4
+file . "divider_vhd_tst.vhd" "2eed61be77ef587c3078f9fbdd8ecf197fcc2a2e" "20230802043710.839":
+  entity divider_vhd_tst at 7( 147) + 0 on 13;
+  architecture divider_arch of divider_vhd_tst at 16( 320) + 0 on 14;
+file . "divider.vhd" "f3763b6ce2e8ffbe3a85eb9e9890a45675946623" "20230802043710.839":
+  entity divider at 7( 139) + 0 on 11;
+  architecture rtl of divider at 30( 895) + 0 on 12;
