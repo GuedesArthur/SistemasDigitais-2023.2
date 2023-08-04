@@ -3,6 +3,7 @@
 -- divider.vhd
 --
 -- Arthur N. Guedes - 11085314
+-- Caio Cedran Colombo - 11201722553
 
 LIBRARY ieee;
 USE ieee.std_logic_1164.all;
