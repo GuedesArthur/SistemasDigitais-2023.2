@@ -6,5 +6,7 @@
   
    
 ## Instruções
-Arquivos VHDL (.vhd) estão localizados na pasta /src   
-Arquivos de documentação estão localizados na pasta /docs  
+Arquivos VHDL (.vhd) estão localizados na pasta /src  
+Relatório e documentação estão localizados na pasta /docs  
+  
+Arquivos disponíveis em https://github.com/GuedesArthur/SistemasDigitais-2023.2/
